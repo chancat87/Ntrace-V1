@@ -23,6 +23,13 @@
   </a>
 </p>
 
+## Network Sponsor
+
+<a href="https://dmit.io">
+  <img src="https://www.dmit.io/templates/dmit_theme_2020/dmit/assets/images/dmit_logo_with_text_blue.svg" width="187.77" height="69.19">
+</a>
+
+我们非常感谢 [DMIT](https://dmit.io) 提供了支持本项目所需的网络基础设施。
 
 ## How To Use
 
