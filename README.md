@@ -22,6 +22,14 @@
   </a>
 </p>
 
+## Network Sponsor
+
+<a href="https://dmit.io">
+  <img src="https://www.dmit.io/templates/dmit_theme_2020/dmit/assets/images/dmit_logo_with_text_blue.svg" width="187.77" height="69.19">
+</a>
+
+We are extremely grateful to [DMIT](https://dmit.io) for providing the network infrastructure that powers this project.
+
 ## How To Use
 
 Document Language: English | [简体中文](README_zh_CN.md)
