@@ -43,11 +43,9 @@
 
 Document Language: [English](README.md) | 简体中文
 
-⚠️ 这是NextTrace V1 版本的README文件。对于重构版本，请参阅 [nxtrace/Ntrace-core](https://github.com/nxtrace/Ntrace-core)。 
-<br>对于此V1版本的NextTrace我们将不再有功能性更新(已有功能BUG修复继续进行)，未来的工作重心将转移到重构版本。
-<br>如果您不需要 v1.1.3及其后续版本包含的功能更新，我们建议您继续使用 v1.1.2 版本。
+⚠️ 这是NextTrace V1 版本的README文件。
 
-关于 v1.1.2 与 v1.1.7-2 版本的区别:
+关于 v1.1.2 与 v1.1.9 版本的区别:
 * 增加和修复了部分第三方GEOIP API的支持
   * ipinfo
   * ipinfoLocal 即ipinfo数据库离线版
