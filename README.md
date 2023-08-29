@@ -40,11 +40,9 @@ We are extremely grateful to [DMIT](https://dmit.io) and [Misaka](https://misaka
 
 Document Language: English | [简体中文](README_zh_CN.md)
 
-⚠️ This is the README for the V1 version of NextTrace. For the refactored version, please turn to [nxtrace/Ntrace-core](https://github.com/nxtrace/Ntrace-core). 
-<br> For this V1 version of NextTrace, there will be no more feature updates (bug fixes for existing features will continue), and future efforts will be shifted to refactored version.
-<br>If you do not require the feature updates included in version v1.1.3 and subsequent versions, we recommend that you continue to use version v1.1.2.
+⚠️ This is the README for the V1 version of NextTrace.
 
-Differences between version v1.1.2 and v1.1.7-2:
+Differences between version v1.1.2 and v1.1.9:
 * Added and fixed support for some third-party GEOIP APIs
     * ipinfo
     * ipinfoLocal, which is the offline version of the ipinfo database
